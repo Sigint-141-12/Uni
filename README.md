@@ -3,8 +3,9 @@
 ## Hello and welcome to a collection of my uni courses and assignments :mortar_board:
 
 Most of my coursework to date has been in Python and R and you'll find various tests (programming) and assignments (programming + data analysis + reporting) here.
+Thanks for coming, I appreciate you taking the time to look at my work.
 
-### Defintley check out :thumbsup:
+### Definitely  check out :thumbsup:
 Probably the best place to start would be my 'Data Scientist Jobs' exam. This was a comprehensive project in R which involved data scraping, data analysis, report writing (analysis/visualisations) and dashboard creation.
 
 ### Also worth a look :eyes:
