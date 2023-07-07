@@ -1,10 +1,13 @@
 # Hello World!
-Hello and welcome to my 'website' :)
 
-I use the term loosely because I haven't learned how to make them yet.
+## Hello and welcome to a collection of my uni courses and assignments :mortar_board:
 
-Hopefully you're here because you clicked on the link in my CV (thanks for that) and you're looking for some of my work.
+Most of my coursework to date has been in Python and R and you'll find various tests (programming) and assignments (programming + data analysis + reporting) here.
 
-You'll find it here: [https://sigint-141-12.github.io/](https://github.com/Sigint-141-12)
+### Defintley check out :thumbsup:
+Probably the best place to start would be my 'Data Scientist Jobs' exam. This was a comprehensive project in R which involved data scraping, data analysis, report writing (analysis/visualisations) and dashboard creation.
 
-My hope is that I improve enough to look back on this code and feel a bit embarassed. But for now, I'm pretty happy with it
+### Also worth a look :eyes:
+My Yelp assignment was also in R and involved data analysis on a large data set from Yelp.com and a written report with analysis and visualisations
+
+My Covid assignment was in Python using Jupyter Notebook. It involved a lot of data cleaning then a written analysis and visualisations of Covid data across different Australian states
