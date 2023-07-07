@@ -3,6 +3,7 @@
 ## Hello and welcome to a collection of my uni courses and assignments :mortar_board:
 
 Most of my coursework to date has been in Python and R and you'll find various tests (programming) and assignments (programming + data analysis + reporting) here.
+
 Thanks for coming, I appreciate you taking the time to look at my work.
 
 ### Definitely  check out :thumbsup:
