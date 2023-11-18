@@ -1,0 +1,1 @@
+This is code from an assignment where the goal was to build a battleship simulator. The aim was to write code that would appropriately set up a battleship board then the program would play a game and record the number of actions it took. A thousand games were simulated and the average number of guesses were calculated. The goal was then to refine the code to reduce the average
